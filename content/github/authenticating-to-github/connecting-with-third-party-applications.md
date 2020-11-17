@@ -59,7 +59,7 @@ There are several types of data that applications can request.
 | Gists | [Gist](https://gist.github.com) access allows applications to read or write to both your public and secret Gists. |
 | Hooks | [Webhooks](/webhooks) access allows applications to read or write hook configurations on repositories you manage. |
 | Notifications | Notification access allows applications to read your {% data variables.product.product_name %} notifications, such as comments on issues and pull requests. However, applications remain unable to access anything in your repositories. |
-| Organizations and teams | Organization and teams access allows apps to access and manage organization and team membership. |
+| Organizations and teams | Organization and tea koms access allows apps to access and manage organization and team membership. |
 | Personal user data | User data includes information found in your user profile, like your name, e-mail address, and location. |
 | Repositories | Repository information includes the names of contributors, the branches you've created, and the actual files within your repository. Applications can request access for either public or private repositories on a user-wide level. |
 | Repository delete | Applications can request to delete repositories that you administer, but they won't have access to your code. |
